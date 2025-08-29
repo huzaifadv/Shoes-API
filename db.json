@@ -17,7 +17,7 @@
       "longDescription": "The Air Force 1 Shadow adds fun, creative twists to a classic. With doubled branding, layered details, and a lifted midsole, it delivers a unique design that stands out. Perfect for sneaker fans who want something stylish while still enjoying the AF1’s legendary comfort and support.",
       "price": 130,
       "stock": 15,
-      "image": "https://yourcdn.com/airforce-shadow.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412013/airforce-shoes-11_plneji.webp",
       "rating": 4.6
     },
     {
@@ -27,7 +27,7 @@
       "longDescription": "The Air Force 1 Pixel brings a futuristic edge to the lineup. With pixel-inspired design, bold geometric accents, and a chunky midsole, it breaks tradition while still providing cushioning and comfort. A stylish shoe for those looking to stand out in urban settings.",
       "price": 125,
       "stock": 18,
-      "image": "https://yourcdn.com/airforce-pixel.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412013/airforce-shoes-10_anow7h.webp",
       "rating": 4.4
     },
     {
@@ -37,7 +37,7 @@
       "longDescription": "The Air Force 1 High delivers a premium feel with its padded ankle support and adjustable strap. Designed originally for basketball, it has transitioned into streetwear seamlessly, offering a bold, supportive fit that keeps you stylish and comfortable all day long.",
       "price": 135,
       "stock": 12,
-      "image": "https://yourcdn.com/airforce-high.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412013/airforce-shoes-9_aphgdu.webp",
       "rating": 4.7
     },
     {
@@ -47,7 +47,7 @@
       "longDescription": "The Air Force 1 React takes the silhouette and upgrades it with React foam technology. This results in softer, bouncier steps while retaining the iconic style. It’s the perfect mix of classic heritage and innovative comfort, ideal for long days on your feet.",
       "price": 140,
       "stock": 10,
-      "image": "https://yourcdn.com/airforce-react.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412012/airforce-shoes-8_ctskuz.webp",
       "rating": 4.6
     },
     {
@@ -57,7 +57,7 @@
       "longDescription": "The Air Force 1 LV8 reimagines the legendary silhouette with unique textures, materials, and finishes. Designed for sneaker collectors and enthusiasts, it offers the same comfort and support while standing out from the crowd with exclusive detailing.",
       "price": 145,
       "stock": 8,
-      "image": "https://yourcdn.com/airforce-lv8.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412012/airforce-shoes-7_plrrds.webp",
       "rating": 4.3
     },
     {
@@ -67,7 +67,7 @@
       "longDescription": "The Air Force 1 Experimental introduces a cutting-edge aesthetic with vacuum-sealed overlays, bold accents, and experimental features. Inspired by prototypes, this shoe fuses innovative styling with comfort, appealing to those who want something truly unique.",
       "price": 150,
       "stock": 14,
-      "image": "https://yourcdn.com/airforce-experimental.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412011/airforce-shoes-6_h87aup.webp",
       "rating": 4.2
     },
     {
@@ -77,7 +77,7 @@
       "longDescription": "The Air Force 1 Premium offers a luxurious upgrade to the classic with supple leather, refined stitching, and exclusive detailing. This sneaker is built for those who want to elevate their streetwear game while enjoying trusted comfort and support.",
       "price": 160,
       "stock": 9,
-      "image": "https://yourcdn.com/airforce-premium.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412011/airforce-shoes-5_dpymmt.webp",
       "rating": 4.8
     },
     {
@@ -87,7 +87,7 @@
       "longDescription": "The Air Force 1 Crater is part of a sustainability movement, built using recycled materials without compromising on style. Its speckled sole and unique textures give it a fresh look while still honoring the heritage. Perfect for eco-conscious sneaker lovers.",
       "price": 135,
       "stock": 16,
-      "image": "https://yourcdn.com/airforce-crater.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412011/airforce-shoes-4_suliil.webp",
       "rating": 4.4
     },
     {
@@ -97,7 +97,7 @@
       "longDescription": "The Air Force 1 Flyknit takes the classic and transforms it with a lightweight, breathable upper. The design significantly reduces weight while offering a flexible fit. Perfect for summer wear, it keeps your feet cool and comfortable throughout the day.",
       "price": 145,
       "stock": 11,
-      "image": "https://yourcdn.com/airforce-flyknit.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412010/airforce-shoes-3_l75bet.webp",
       "rating": 4.6
     },
     {
@@ -107,7 +107,7 @@
       "longDescription": "The Air Force 1 Pixel SE is a special edition sneaker featuring bold, geometric patterns and a deconstructed aesthetic. It keeps the same cushioned sole and comfort while pushing boundaries with its artistic design, making it a favorite for collectors.",
       "price": 150,
       "stock": 13,
-      "image": "https://yourcdn.com/airforce-pixel-se.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412010/airforce-shoes-2_uo4fqx.webp",
       "rating": 4.5
     },
     {
@@ -117,7 +117,7 @@
       "longDescription": "The Air Force 1 Utility redefines the original with utilitarian straps, oversized details, and bold accents. Designed for modern urban lifestyles, it combines innovative design with trusted comfort, delivering a sneaker that is both functional and fashion-forward.",
       "price": 155,
       "stock": 7,
-      "image": "https://yourcdn.com/airforce-utility.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412010/airforce-shoes-1_ihwbpc.webp",
       "rating": 4.3
     }
   ],
@@ -129,7 +129,7 @@
       "longDescription": "The Blazer Mid Vintage combines a timeless basketball design with modern streetwear flair. Featuring a durable upper, exposed tongue details, and retro inspiration, it’s a versatile sneaker that works equally well on the court and with casual outfits.",
       "price": 110,
       "stock": 18,
-      "image": "https://yourcdn.com/blazer-mid77.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412131/blazer-shoes-12_z2gi96.webp",
       "rating": 4.6
     },
     {
@@ -139,7 +139,7 @@
       "longDescription": "The Blazer Low offers a sleek silhouette with high-quality construction, giving it a refined and stylish edge. Designed for everyday wear, it delivers comfort and versatility, making it an excellent choice for those who prefer low-top sneakers with timeless appeal.",
       "price": 100,
       "stock": 22,
-      "image": "https://yourcdn.com/blazer-low.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412130/blazer-shoes-11_tgxyex.webp",
       "rating": 4.5
     },
     {
@@ -149,7 +149,7 @@
       "longDescription": "The Blazer Mid enhances the classic basketball sneaker with a smooth upper, offering a refined look with a premium feel. Comfortable and versatile, this sneaker is perfect for both casual wear and fashion-forward outfits that need a retro-inspired vibe.",
       "price": 115,
       "stock": 15,
-      "image": "https://yourcdn.com/blazer-suede.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412129/blazer-shoes-10_ybq18n.webp",
       "rating": 4.7
     },
     {
@@ -159,7 +159,7 @@
       "longDescription": "The Blazer Jumbo pushes the limits of design with its oversized details and bold look. Maintaining the same comfort as the original, this sneaker stands out for its modern twist on a classic silhouette, perfect for sneaker enthusiasts.",
       "price": 125,
       "stock": 12,
-      "image": "https://yourcdn.com/blazer-jumbo.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412128/blazer-shoes-9_cwtd1t.webp",
       "rating": 4.4
     },
     {
@@ -169,7 +169,7 @@
       "longDescription": "The Blazer Platform reimagines the iconic sneaker with an elevated midsole for added height and modern appeal. Offering the same vintage basketball charm, this sneaker is tailored for trendsetters who want to combine retro vibes with contemporary fashion.",
       "price": 120,
       "stock": 9,
-      "image": "https://yourcdn.com/blazer-platform.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412127/blazer-shoes-8_pf9m7m.webp",
       "rating": 4.3
     },
     {
@@ -179,7 +179,7 @@
       "longDescription": "The Blazer Next Nature is crafted with sustainable materials while keeping the original Blazer aesthetic alive. Featuring a stylish yet eco-conscious design, it’s the perfect option for those who want to stay fashionable while making environmentally friendly choices.",
       "price": 110,
       "stock": 13,
-      "image": "https://yourcdn.com/blazer-nextnature.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412126/blazer-shoes-7_y0to3h.webp",
       "rating": 4.5
     },
     {
@@ -189,7 +189,7 @@
       "longDescription": "The Blazer Mid Patchwork blends multiple textures and materials to create a bold sneaker with a one-of-a-kind personality. Maintaining the classic comfort and structure, this edition is ideal for sneakerheads who appreciate individuality and creative design elements.",
       "price": 130,
       "stock": 10,
-      "image": "https://yourcdn.com/blazer-patchwork.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412125/blazer-shoes-6_egkdel.webp",
       "rating": 4.6
     },
     {
@@ -199,7 +199,7 @@
       "longDescription": "The Blazer Collab introduces a deconstructed, layered aesthetic with doubled details and stacked midsoles. This sneaker combines artistic creativity with heritage design, resulting in a statement piece for collectors and fashion-forward individuals.",
       "price": 150,
       "stock": 6,
-      "image": "https://yourcdn.com/blazer-sacai.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412125/blazer-shoes-5_qvrswv.webp",
       "rating": 4.8
     },
     {
@@ -209,7 +209,7 @@
       "longDescription": "The Blazer Mid Premium Vintage enhances the original with upgraded materials, vintage finishing, and timeless charm. A sneaker designed for everyday versatility, it offers the same supportive fit and comfort with a touch of retro sophistication.",
       "price": 125,
       "stock": 11,
-      "image": "https://yourcdn.com/blazer-premium.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412124/blazer-shoes-4_etlwvj.webp",
       "rating": 4.7
     },
     {
@@ -219,7 +219,7 @@
       "longDescription": "The Blazer Edge reinvents the classic sneaker with exposed stitching, asymmetrical details, and a DIY-inspired aesthetic. This sneaker speaks to those who love artistic expression, offering comfort and a bold, rebellious style that makes it stand out.",
       "price": 130,
       "stock": 8,
-      "image": "https://yourcdn.com/blazer-edge.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412123/blazer-shoes-3_w2lmu6.webp",
       "rating": 4.2
     },
     {
@@ -229,7 +229,7 @@
       "longDescription": "The Blazer Infinite updates the design with overlays, strong stitching, and bold outlines that create a unique, modern finish. Designed for extra durability, this sneaker is ideal for both everyday wear and those who want a slightly rugged yet stylish shoe.",
       "price": 120,
       "stock": 14,
-      "image": "https://yourcdn.com/blazer-infinite.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412123/blazer-shoes-2_bkewnc.webp",
       "rating": 4.4
     },
     {
@@ -239,7 +239,7 @@
       "longDescription": "The Blazer Vintage Suede delivers a retro-inspired look with a smooth upper, exposed details, and timeless mid-top style. Perfect for sneaker fans who appreciate vintage aesthetics, this sneaker provides both comfort and undeniable fashion appeal.",
       "price": 115,
       "stock": 17,
-      "image": "https://yourcdn.com/blazer-vintage-suede.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412122/blazer-shoes-1_t6dhhf.webp",
       "rating": 4.5
     }
   ],
@@ -251,7 +251,7 @@
       "longDescription": "This classic dunk shoe blends streetwear and comfort in a versatile design. Built with durable materials and crafted for all-day wear, it remains a favorite choice for both casual looks and sneaker collectors seeking a staple piece.",
       "price": 120,
       "stock": 20,
-      "image": "https://yourcdn.com/dunk-1.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412258/dunk-shoes-12_ku07tn.webp",
       "rating": 4.8
     },
     {
@@ -261,7 +261,7 @@
       "longDescription": "The retro dunk shoe is inspired by vintage basketball culture. With its sturdy build and modern appeal, it strikes the perfect balance between heritage and style, making it a must-have for sneaker fans worldwide.",
       "price": 130,
       "stock": 15,
-      "image": "https://yourcdn.com/dunk-2.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412257/dunk-shoes-11_cufvku.webp",
       "rating": 4.7
     },
     {
@@ -271,7 +271,7 @@
       "longDescription": "This premium dunk shoe offers a balance of comfort and style. Designed for everyday wear, its durable construction and sleek silhouette make it a go-to choice for sneakerheads looking for versatile fashion.",
       "price": 125,
       "stock": 18,
-      "image": "https://yourcdn.com/dunk-3.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412256/dunk-shoes-10_fwb85o.webp",
       "rating": 4.9
     },
     {
@@ -281,7 +281,7 @@
       "longDescription": "The essential dunk shoe edition combines classic sports culture with modern design. It is lightweight, reliable, and versatile, perfect for both casual outings and urban fashion styling.",
       "price": 125,
       "stock": 12,
-      "image": "https://yourcdn.com/dunk-4.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412255/dunk-shoes-9_tqgfns.webp",
       "rating": 4.7
     },
     {
@@ -291,7 +291,7 @@
       "longDescription": "This limited dunk shoe release delivers a bold presence in the sneaker world. Crafted with premium materials, it provides comfort while standing out as a statement piece in any sneaker collection.",
       "price": 130,
       "stock": 10,
-      "image": "https://yourcdn.com/dunk-5.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412254/dunk-shoes-8_isnahl.webp",
       "rating": 4.6
     },
     {
@@ -301,7 +301,7 @@
       "longDescription": "The urban dunk shoe is designed for those who live the city lifestyle. With its modern design and high-quality build, it enhances any casual outfit while ensuring long-lasting wear.",
       "price": 125,
       "stock": 14,
-      "image": "https://yourcdn.com/dunk-6.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412253/dunk-shoes-7_wzsbfx.webp",
       "rating": 4.8
     },
     {
@@ -311,7 +311,7 @@
       "longDescription": "The modern dunk shoe carries a fresh look that connects classic sneaker culture with today’s fashion trends. It’s versatile, durable, and provides the comfort needed for daily wear.",
       "price": 135,
       "stock": 9,
-      "image": "https://yourcdn.com/dunk-7.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412252/dunk-shoes-6_uxuucp.webp",
       "rating": 4.9
     },
     {
@@ -321,7 +321,7 @@
       "longDescription": "This classic edition dunk shoe remains a must-have for fashion-forward individuals. Its iconic build ensures style and comfort, making it suitable for all-day wear across different occasions.",
       "price": 120,
       "stock": 16,
-      "image": "https://yourcdn.com/dunk-8.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412251/dunk-shoes-5_jeiqh6.webp",
       "rating": 4.5
     },
     {
@@ -331,7 +331,7 @@
       "longDescription": "The legendary dunk shoe is a tribute to basketball and street fashion culture. Built with premium materials, it delivers unmatched durability while staying true to the sneaker’s heritage.",
       "price": 135,
       "stock": 11,
-      "image": "https://yourcdn.com/dunk-9.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412250/dunk-shoes-4_y1ygab.webp",
       "rating": 4.7
     },
     {
@@ -341,7 +341,7 @@
       "longDescription": "The casual dunk shoe is built for everyday wear. Its lightweight and sleek design makes it perfect for pairing with multiple outfits, giving you comfort while keeping your style on point.",
       "price": 120,
       "stock": 19,
-      "image": "https://yourcdn.com/dunk-10.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412249/dunk-shoes-3_uebgxq.webp",
       "rating": 4.6
     },
     {
@@ -351,7 +351,7 @@
       "longDescription": "The street dunk shoe blends everyday comfort with classic sneaker culture. Designed for versatile styling, it is a reliable pick for those who want to look stylish while staying comfortable.",
       "price": 125,
       "stock": 13,
-      "image": "https://yourcdn.com/dunk-11.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412248/dunk-shoes-2_xnmebz.webp",
       "rating": 4.7
     },
     {
@@ -361,7 +361,7 @@
       "longDescription": "The original dunk shoe brand continues its legacy with this design. Combining premium materials with timeless appeal, it ensures comfort while honoring the roots of sneaker culture.",
       "price": 140,
       "stock": 8,
-      "image": "https://yourcdn.com/dunk-12.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412247/dunk-shoes-1_lmpdlz.webp",
       "rating": 4.9
     }
   ],
@@ -373,7 +373,7 @@
       "longDescription": "The Classic Cortez Shoes Brand represents the heritage of running sneakers with a minimal and iconic design. Built for both style and comfort, it remains a cultural icon loved by sneaker fans across generations.",
       "price": 90,
       "stock": 25,
-      "image": "https://yourcdn.com/cortez1.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412186/cortez-shoes-12_hgjqhp.webp",
       "rating": 4.8
     },
     {
@@ -383,7 +383,7 @@
       "longDescription": "The Premium Cortez Shoes Edition offers enhanced detailing and comfort while keeping the retro-inspired silhouette intact. Perfect for everyday wear, it brings back the nostalgia of vintage sneakers with a modern twist.",
       "price": 95,
       "stock": 20,
-      "image": "https://yourcdn.com/cortez2.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412185/cortez-shoes-11_c7o5kc.webp",
       "rating": 4.7
     },
     {
@@ -393,7 +393,7 @@
       "longDescription": "The Retro Cortez Shoes Collection blends heritage with streetwear appeal. With its iconic design language, it serves sneaker enthusiasts who appreciate timeless fashion and durable construction in their footwear.",
       "price": 85,
       "stock": 18,
-      "image": "https://yourcdn.com/cortez3.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412184/cortez-shoes-10_ymnbz8.webp",
       "rating": 4.6
     },
     {
@@ -403,7 +403,7 @@
       "longDescription": "The Limited Cortez Shoes Style captures the essence of exclusivity with refined craftsmanship. This edition enhances the sneaker’s cultural importance while providing unmatched comfort and stylish detailing.",
       "price": 110,
       "stock": 12,
-      "image": "https://yourcdn.com/cortez4.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412183/cortez-shoes-9_ssl7er.webp",
       "rating": 4.9
     },
     {
@@ -413,7 +413,7 @@
       "longDescription": "The Modern Cortez Shoes Design brings innovation while respecting tradition. Designed with sleek lines and improved materials, this shoe appeals to sneakerheads looking for a fresh version of a timeless classic.",
       "price": 88,
       "stock": 16,
-      "image": "https://yourcdn.com/cortez5.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412181/cortez-shoes-8_mablxh.webp",
       "rating": 4.5
     },
     {
@@ -423,7 +423,7 @@
       "longDescription": "The Sporty Cortez Shoes Model delivers comfort and performance for daily wear. Inspired by athletic heritage, this version ensures lightweight support and retro aesthetics, making it versatile for any outfit.",
       "price": 92,
       "stock": 14,
-      "image": "https://yourcdn.com/cortez6.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412180/cortez-shoes-7_iivg23.webp",
       "rating": 4.6
     },
     {
@@ -433,7 +433,7 @@
       "longDescription": "The Exclusive Cortez Shoes Pack stands out with its unique detailing, crafted for those who want something beyond the ordinary. With strong retro roots, this sneaker maintains iconic appeal in modern times.",
       "price": 105,
       "stock": 10,
-      "image": "https://yourcdn.com/cortez7.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412179/cortez-shoes-6_fdicnw.webp",
       "rating": 4.8
     },
     {
@@ -443,7 +443,7 @@
       "longDescription": "The Original Cortez Shoes Classic is a true symbol of sneaker culture, staying true to its first-generation style. Comfortable, durable, and timeless, it continues to inspire sneaker lovers around the world.",
       "price": 85,
       "stock": 19,
-      "image": "https://yourcdn.com/cortez8.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412178/cortez-shoes-5_sgrgnk.webp",
       "rating": 4.7
     },
     {
@@ -453,7 +453,7 @@
       "longDescription": "The Essential Cortez Shoes Line is designed for those who want a reliable sneaker that blends history with modern comfort. This shoe is versatile, easy to wear, and remains stylish in every season.",
       "price": 89,
       "stock": 22,
-      "image": "https://yourcdn.com/cortez9.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412178/cortez-shoes-4_qkqcmd.webp",
       "rating": 4.7
     },
     {
@@ -463,7 +463,7 @@
       "longDescription": "The Classic Cortez Shoes Series revives the timeless aesthetics of running culture. Built with attention to comfort and durability, this sneaker remains one of the most recognized silhouettes in the sneaker world.",
       "price": 90,
       "stock": 15,
-      "image": "https://yourcdn.com/cortez10.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412177/cortez-shoes-3_awpseh.webp",
       "rating": 4.6
     },
     {
@@ -473,7 +473,7 @@
       "longDescription": "The Elite Cortez Shoes Edition enhances the original silhouette with premium finishing touches. Combining heritage roots with a refined modern build, it is perfect for those who want the best of both worlds.",
       "price": 115,
       "stock": 9,
-      "image": "https://yourcdn.com/cortez11.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412176/cortez-shoes-2_k8s0mi.webp",
       "rating": 4.9
     },
     {
@@ -483,7 +483,7 @@
       "longDescription": "The Heritage Cortez Shoes Release pays tribute to the legacy of retro sneakers. With a build focused on authentic styling, it celebrates the Cortez line’s cultural impact and its ongoing influence in fashion.",
       "price": 100,
       "stock": 13,
-      "image": "https://yourcdn.com/cortez12.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412175/cortez-shoes-1_ffylsv.webp",
       "rating": 4.8
     }
   ],
@@ -495,7 +495,7 @@
       "longDescription": "The Metcon Shoes Premium Edition is crafted for athletes seeking superior durability and stability. With reinforced cushioning and excellent grip, it delivers reliable performance for weightlifting, cross-training, and intense workouts.",
       "price": 130,
       "stock": 20,
-      "image": "https://yourcdn.com/metcon-premium.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412312/metcon-shoes-12_oyiubb.webp",
       "rating": 4.8
     },
     {
@@ -505,7 +505,7 @@
       "longDescription": "The Classic Metcon Training Shoes provide a strong blend of comfort and support for everyday gym activities. Breathable materials, durable construction, and a stable base make them perfect for both cardio and strength sessions.",
       "price": 120,
       "stock": 15,
-      "image": "https://yourcdn.com/metcon-classic.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412311/metcon-shoes-11_lyhmjj.webp",
       "rating": 4.7
     },
     {
@@ -515,7 +515,7 @@
       "longDescription": "The Metcon Shoes Pro Series is engineered for advanced athletes and lifters. Featuring a reinforced heel and precision grip sole, it ensures unmatched stability during heavy lifts and functional workouts.",
       "price": 140,
       "stock": 12,
-      "image": "https://yourcdn.com/metcon-pro.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412309/metcon-shoes-10_ew6vgo.webp",
       "rating": 4.9
     },
     {
@@ -525,7 +525,7 @@
       "longDescription": "The Lightweight Metcon Shoes Flex are designed for agility and speed. Their breathable mesh upper and cushioned midsole allow comfortable movement, making them ideal for HIIT, running, and cross-training.",
       "price": 115,
       "stock": 25,
-      "image": "https://yourcdn.com/metcon-lite.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412308/metcon-shoes-9_tpopyq.webp",
       "rating": 4.6
     },
     {
@@ -535,7 +535,7 @@
       "longDescription": "The Metcon Shoes Power Max provide powerful support for lifting and strength training. Their extra-sturdy heel, non-slip outsole, and responsive cushioning deliver optimal performance during intense sessions.",
       "price": 145,
       "stock": 10,
-      "image": "https://yourcdn.com/metcon-power.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412307/metcon-shoes-8_cckdlm.webp",
       "rating": 4.9
     },
     {
@@ -545,7 +545,7 @@
       "longDescription": "The Metcon Shoes Endurance Pro are designed for athletes focused on stamina. With superior shock absorption, breathable upper, and reinforced sole, they keep you moving comfortably for hours.",
       "price": 135,
       "stock": 18,
-      "image": "https://yourcdn.com/metcon-endurance.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412306/metcon-shoes-7_x93iem.webp",
       "rating": 4.7
     },
     {
@@ -555,7 +555,7 @@
       "longDescription": "The Metcon Shoes Speed Runner are tailored for agility and speed-based workouts. Their responsive cushioning and lightweight design make them excellent for sprints, circuits, and endurance training.",
       "price": 125,
       "stock": 22,
-      "image": "https://yourcdn.com/metcon-speed.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412305/metcon-shoes-6_wpwtld.webp",
       "rating": 4.6
     },
     {
@@ -565,7 +565,7 @@
       "longDescription": "The All-Terrain Metcon Shoes Grip deliver stability and strong traction on various surfaces. Their durable sole and breathable construction make them great for outdoor workouts and rugged training.",
       "price": 138,
       "stock": 14,
-      "image": "https://yourcdn.com/metcon-grip.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412303/metcon-shoes-5_q6s49u.webp",
       "rating": 4.7
     },
     {
@@ -575,7 +575,7 @@
       "longDescription": "The Metcon Shoes Elite Trainer is a top-tier training shoe designed for peak athletic performance. With reinforced stability, premium cushioning, and modern design, it excels in strength and functional workouts.",
       "price": 150,
       "stock": 9,
-      "image": "https://yourcdn.com/metcon-elite.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412302/metcon-shoes-4_lviefa.webp",
       "rating": 5.0
     },
     {
@@ -585,7 +585,7 @@
       "longDescription": "The Metcon Shoes Fusion Core combines advanced cushioning with a stable base to create a shoe that performs well in both heavy lifting and cardio training, ensuring balance between comfort and strength.",
       "price": 128,
       "stock": 17,
-      "image": "https://yourcdn.com/metcon-fusion.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412301/metcon-shoes-3_smlqez.webp",
       "rating": 4.6
     },
     {
@@ -595,7 +595,7 @@
       "longDescription": "The Metcon Shoes Ultra Boost provide extra cushioning and energy return, making them a comfortable choice for high-volume training. Their design ensures excellent support for both endurance and power athletes.",
       "price": 142,
       "stock": 13,
-      "image": "https://yourcdn.com/metcon-ultra.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412300/metcon-shoes-2_rd4btl.webp",
       "rating": 4.8
     },
     {
@@ -605,7 +605,7 @@
       "longDescription": "The Metcon Shoes Dynamic Flow are designed to move naturally with your foot. Their flexible sole and adaptive cushioning make them a perfect choice for dynamic training and agility-based movements.",
       "price": 132,
       "stock": 19,
-      "image": "https://yourcdn.com/metcon-dynamic.jpg",
+      "image": "https://res.cloudinary.com/db39z5tiq/image/upload/v1756412299/metcon-shoes-1_hszjua.webp",
       "rating": 4.7
     }
   ]
